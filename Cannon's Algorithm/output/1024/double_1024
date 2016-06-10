@@ -1,0 +1,23 @@
+np: 1024
+-------------------------
+Matrix A:
+
+Read time: 0.624969
+type: 'int'
+size: 1024
+
+-------------------------
+Matrix B:
+
+Read time: 0.419195
+type: 'int'
+size: 1024
+
+-------------------------
+Matrix C:
+
+Multiply time: 0.0224893
+
+Write time: 0.462308
+-------------------------
+Total time: 2.40253
