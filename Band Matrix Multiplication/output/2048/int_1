@@ -1,0 +1,21 @@
+type: 'int'
+-------------------------
+Matrix A:
+
+size: 2048
+
+Read time: 0.69
+-------------------------
+Matrix B:
+
+size: 2048
+
+Read time: 0.69
+-------------------------
+Matrix C:
+
+Multiply time: 136.02
+
+Write time: 0.76
+-------------------------
+Total time: 138.22

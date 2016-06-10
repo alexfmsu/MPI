@@ -1,0 +1,27 @@
+np: 128
+-------------------------
+Matrix A:
+
+Read time: 0.401632
+type: 'int'
+size: 1024
+
+Scatter time: 0.0222198
+-------------------------
+Matrix B:
+
+Read time: 0.402584
+type: 'int'
+size: 1024
+
+Scatter time: 0.020159
+-------------------------
+Matrix C:
+
+Multiply time: 0.179563
+
+Gather time: 0.0201197
+
+Write time: 0.443377
+-------------------------
+Total time: 2.13471

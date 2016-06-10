@@ -1,0 +1,27 @@
+np: 8
+-------------------------
+Matrix A:
+
+Read time: 1.59801
+type: 'int'
+size: 2048
+
+Scatter time: 0.0581987
+-------------------------
+Matrix B:
+
+Read time: 1.60582
+type: 'int'
+size: 2048
+
+Scatter time: 0.0581195
+-------------------------
+Matrix C:
+
+Multiply time: 21.8856
+
+Gather time: 0.0580129
+
+Write time: 1.72046
+-------------------------
+Total time: 27.0886
