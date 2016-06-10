@@ -1,0 +1,21 @@
+type: 'double'
+-------------------------
+Matrix A:
+
+size: 1024
+
+Read time: 0.17
+-------------------------
+Matrix B:
+
+size: 1024
+
+Read time: 0.19
+-------------------------
+Matrix C:
+
+Multiply time: 18.75
+
+Write time: 0.22
+-------------------------
+Total time: 19.33
