@@ -1,0 +1,21 @@
+type: 'float'
+-------------------------
+Matrix A:
+
+size: 2048
+
+Read time: 0.68
+-------------------------
+Matrix B:
+
+size: 2048
+
+Read time: 0.68
+-------------------------
+Matrix C:
+
+Multiply time: 137.51
+
+Write time: 0.75
+-------------------------
+Total time: 139.67
